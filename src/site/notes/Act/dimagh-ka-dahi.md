@@ -11,4 +11,4 @@ Make groups of 6 from the Shabab, each group will have two Teams, Team A and Tea
 Variation:  
 Watch [this](https://www.youtube.com/watch?v=4QeA4nrcQV0) video carefully.  
 
-For both variations you can take inspiration from, or use directly the Main Deck and the Charades (Banned Words) deck in the [JorBox App](http://thehaseebshah.github.io/jorbox-app)
+For both variations you can take inspiration from, or use directly the Main Deck and the Charades (Banned Words) deck in the [JorBox App](http://theshabab.github.io/jorbox)
