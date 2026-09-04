@@ -66,7 +66,7 @@ The winning player takes the Problem Card as **1 Point**.
 - **Player Ali's Hand:** `[Kite, Honey, Copper, Falcon, Mirror, Drum]`
 - **Ali selects 2 cards:** `Kite` + `Honey`
 - **Ali's 60-Second Pitch:**
-  > *“Honorable Minister! I present the **‘Aero-Honey Glider’**. Honey is an antibacterial natural medicine that never spoils in the cold. We pack it in lightweight ceramic pods attached to high-altitude kites. Using wind currents, the glider sails across impassable mountain peaks directly into isolated villages with zero risk to human life!”*
+  > *“Honorable Minister! I present the **‘Kite Honey’**. Honey is an antibacterial natural medicine that never spoils in the cold. We pack it in lightweight ceramic pods attached to high-altitude kites. Using wind currents, the glider sails across impassable mountain peaks directly into isolated villages with zero risk to human life!”*
 - **The Result:** The Judge is impressed by the logic and awards Ali the round!
 
 ---
@@ -86,6 +86,8 @@ The winning player takes the Problem Card as **1 Point**.
 10. *Detecting enemy infiltration into a walled town at night.*
 
 ##### 🏷️ Word Cards (Print or write on index cards)
+They should be 30 to 50 in total **for each group**
+
 | | | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | **Solar** | **Falcon** | **Magnet** | **Copper** | **Mirror** |
