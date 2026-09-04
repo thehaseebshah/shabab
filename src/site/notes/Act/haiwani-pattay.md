@@ -12,4 +12,4 @@ Watch the video: https://www.youtube.com/watch?v=Uyciy8LmmXg
 - Bring Your Own Book
 - Sound mode
 
-Use the cards in JorBox app.
+Use the cards in the [JorBox App](http://theshabab.github.io/jorbox).

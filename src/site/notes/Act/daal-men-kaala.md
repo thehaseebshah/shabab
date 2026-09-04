@@ -6,4 +6,4 @@
 #### How to Play
 https://www.youtube.com/watch?v=nMKJJ0mL4Ik
 
-Use JorBox App for cards
+Use the [JorBox App](http://theshabab.github.io/jorbox) for cards

@@ -6,4 +6,4 @@
 #### How to Play
 **Inspired by:** The Mind
 
-Watch: https://www.youtube.com/watch?v=uXl8MC0GMYE
+Watch: https://www.loom.com/share/bd5e6859385445c2bdf561e150aff64d

@@ -4,10 +4,9 @@
 
 ### Aik Rangi Soch
 #### How to Play
-
 Create a number deck from 1 to 10.
 
-To start the game, choose a starting player – and that player now selects a Prompt card from the JorBox app and reads it aloud to all players.  The Prompt is usually something on a spectrum, with keywords in Green (low intensity, e.g. 1) and Red (High intensity, e.g. 10).  The Number deck is now shuffled, and each player gets one dealt facedown.  All players look at their number and then start working on a response to the prompt.
+To start the game, choose a starting player – and that player now selects a Prompt card from the [JorBox App](http://theshabab.github.io/jorbox) and reads it aloud to all players.  The Prompt is usually something on a spectrum, with keywords in Green (low intensity, e.g. 1) and Red (High intensity, e.g. 10).  The Number deck is now shuffled, and each player gets one dealt facedown.  All players look at their number and then start working on a response to the prompt.
 
 The starting player gets to make the first response; trying to give an answer whose intensity matches the number on the number card he was given.  Remember that the number cards all remain secret at this time!
 
