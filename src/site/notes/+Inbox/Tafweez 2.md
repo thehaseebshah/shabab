@@ -1,0 +1,84 @@
+---
+{"dg-publish":true,"permalink":"/inbox/tafweez-2/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"July 2026","module":"Habit Development","name":"Tafweez Part 2: Practical Application"}}
+---
+
+# Tafweez Part 2: Practical Application
+
+> [!info] Learning Objectives
+> Deepening non-verbal coordination and intuition (*Dil ki Sun*), conducting personal audits of active stressors (*Tafwid Audit*), mastering emotional detachment from uncontrollable outcomes (*Barf Sa Dil*), shifting from anxiety (*Talween*) to steadfast composure (*Tamkeen*), and implementing daily real-world Tafweez habits.
+
+## Activity 1:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/act/dil-ki-sun/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Dil ki Sun
+#### How to Play
+**Inspired by:** The Mind
+
+Watch: https://www.loom.com/share/bd5e6859385445c2bdf561e150aff64d
+
+
+</div></div>
+
+
+## Activity 2:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/act/tafweez-audit/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### The 3-Minute Tafwid Audit
+#### How to Play
+
+##### Setup
+Ensure Shabab have a quiet environment, individual sheets of paper, and pens. Emphasize that these sheets are private and will **not** be collected or read aloud.
+
+##### Instructions
+1. **Silent Writing (6 mins):** Shabab fold their paper into two vertical columns:
+   - **Left Side (The Worry & The Desired Outcome):** Write 1 or 2 real situations causing active stress (e.g., academic pressure, social conflict, future uncertainty) and the exact outcome they are dreading or demanding.
+   - **Right Side (The Immediate Action):** Write the single concrete, ethical action Allah SWT expects them to take right now regarding this problem (*Asbab / Duty*).
+2. **The Surrender Line (2 mins):** Participants take their pen and cross out the Left Side's outcome demand, resolving silently in their hearts:
+   > *“I will focus 100% on doing the right side. The left side is in Allah's hands.”*
+3. **Closing Reflection (7 mins):** Murabbi facilitates a voluntary, high-level debrief without requiring anyone to share private details.
+
+##### Key Discussion Points for Murabbi
+- **Haq-e-Azmat-e-Ilahi (The Right of Allah's Majesty):** We practice Tafweez not merely as a stress-relief technique, but because He is the Master (*Aqa*) and we are His servants (*Ghulam*). Inner peace (*Sukoon*) is a natural byproduct of true servitude.
+- **Heart of Ice (*Barf Sa Dil*):** Remaining unshakeable when results do not align with our desires, knowing that our accountability and reward lie in the sincerity of our effort, not the outcome.
+- **Talween to Tamkeen:** Anxious thoughts will inevitably resurface after 10 minutes. Every time the mind wanders into worry, consciously redirect your focus back to your immediate duty.
+
+##### Murabbi Debrief Prompts
+1. *“Why does obsessing over outcomes make a person paralyzed or angry?”*
+2. *“When Maulana Zakariyya visited his hostile relative who turned his face away, why was he completely unbothered?”*
+3. *“What is the difference between passive fatalism (Tawaakul/laziness) and proactive submission (Tafwid)?”*
+
+
+</div></div>
+
+
+## Activity 3:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/act/tafweez-homework/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Tafweez Homework Challenge
+#### Instructions for Murabbi
+
+Assign the Shabab a 7-day personal habit tracking challenge to practice Tafweez in real life:
+
+1. **Daily Trigger Log:** Whenever you experience stress, anxiety, or frustration during the week, pause and identify:
+   - *Am I stressing over an outcome (Column 2) or failing to take action (Column 1)?*
+2. **Apply the 2-Minute Reset:** Write down the immediate ethical action needed, perform it with *Ihsan*, make Dua, and consciously entrust the final result to Allah SWT.
+3. **Weekly Check-in:** In the next class, Shabab will share one instance where applying Tafweez helped them maintain composure during a stressful situation.
+
+
+</div></div>
+
