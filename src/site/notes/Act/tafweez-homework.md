@@ -5,9 +5,10 @@
 ### Tafweez Homework Challenge
 #### Instructions for Murabbi
 
-Assign the Shabab a 7-day personal habit tracking challenge to practice Tafweez in real life:
+Assign the Shabab a 5-day personal habit tracking challenge to practice Tafweez in real life:
 
 1. **Daily Trigger Log:** Whenever you experience stress, anxiety, or frustration during the week, pause and identify:
    - *Am I stressing over an outcome (Column 2) or failing to take action (Column 1)?*
-2. **Apply the 2-Minute Reset:** Write down the immediate ethical action needed, perform it with *Ihsan*, make Dua, and consciously entrust the final result to Allah SWT.
-3. **Weekly Check-in:** In the next class, Shabab will share one instance where applying Tafweez helped them maintain composure during a stressful situation.
+1. **Apply the 2-Minute Reset:** Write down the immediate ethical action needed, perform it with *Ihsan*, make Dua, and consciously entrust the final result to Allah SWT.
+2. **Daily Check-in:** Ask the Shabab how they are doing in the weekdays.
+3. **Weekly Check-in:** In the next class, Shabab will share one instance where applying Tafweez helped them maintain composure during a stressful situation. Plus they will also show their 5 day log of daily Tafweez.
